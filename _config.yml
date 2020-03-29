@@ -1,1 +1,3 @@
-remote_theme: theme: jekyll-theme-cayman
+title: COA Labs
+description: Lab Instructions for COMP262
+theme: jekyll-theme-cayman

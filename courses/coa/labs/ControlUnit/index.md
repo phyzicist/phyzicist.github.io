@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Control Unit
-nav_order: 2
 ---
 
 # Comp262 Lab: Control Unit
