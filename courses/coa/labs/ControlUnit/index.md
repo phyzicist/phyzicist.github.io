@@ -26,7 +26,6 @@ You'll need to read through the next several sections before you begin any codin
 ## Table of Contents
 {: .no_toc .text-delta }
 
-1. TOC
 {:toc}
 
 ## Introduction: Purpose of a Control Unit
