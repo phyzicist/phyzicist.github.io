@@ -1,4 +1,11 @@
+---
+layout: default
+title: Control Unit
+nav_order: 2
+---
+
 # Comp262 Lab: Control Unit
+{: .no_toc}
 
 How does a CPU actually "understand" computer code? Logic circuits, of course! In this week's lab, you will explore the role of the Control Unit in the CPU.
 
@@ -18,35 +25,10 @@ You'll need to read through the next several sections before you begin any codin
 2. Book by John Scott. "But How Do it Know?" (Extract available on Canvas; Full book available at Broome Library)
 
 ## Table of Contents
+{: .no_toc .text-delta }
 
-- [Introduction: Purpose of a Control Unit](#introduction--purpose-of-a-control-unit)
-- [A Simple Architecture](#a-simple-architecture)
-  * [A Simple Program](#a-simple-program)
-  * [Finishing the Instruction Set](#finishing-the-instruction-set)
-- [Part 1: Write Your Own Program](#part-1--write-your-own-program)
-  + [Assignment Description](#assignment-description)
-  + [Syntax for RAM text file ("MyRAM.mem")](#syntax-for-ram-text-file---rammem--)
-  + [Running Your Program](#running-your-program)
-  + [Submission](#submission)
-- [Part 2: Build Your Own Hardwired CU](#part-2--build-your-own-hardwired-cu)
-  + [Assignment Description](#assignment-description-1)
-  + [Submission](#submission-1)
-  + [Help!](#help-)
-  + [Tips](#tips)
-- [Introduction to Part 3: Microprogramming](#introduction-to-part-3--microprogramming)
-  * [Introduction to MythSim](#introduction-to-mythsim)
-    + [Overview of the MythSim Simulator](#overview-of-the-mythsim-simulator)
-    + [Installing MythSim](#installing-mythsim)
-  * [Microprogrammed CUs](#microprogrammed-cus)
-    + [Program vs. Microprogram](#program-vs-microprogram)
-    + [MicroOrganization & MicroArchitecture](#microorganization---microarchitecture)
-  * [Short Walkthrough of MicroProgramming in MythSim](#short-walkthrough-of-microprogramming-in-mythsim)
-    + [First steps with microcode: fetch](#first-steps-with-microcode--fetch)
-      - [Guided interpretation of the above MythSim microcode:](#guided-interpretation-of-the-above-mythsim-microcode-)
-- [Part 3: Microprogram Your Own Control Unit](#part-3--microprogram-your-own-control-unit)
-  * [Assignment Description](#assignment-description-2)
-  * [Submission](#submission-2)
-  * [Tips](#tips-1)
+1. TOC
+{:toc}
 
 ## Introduction: Purpose of a Control Unit
 
