@@ -6,6 +6,14 @@ title: Control Unit
 # Comp262 Lab: Control Unit
 {: .no_toc}
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+* TOC
+{:toc}
+
+## Lab Overview
+
 How does a CPU actually "understand" computer code? Logic circuits, of course! In this week's lab, you will explore the role of the Control Unit in the CPU.
 
 By the end of the lab, we hope you will have formed simple and accurate conceptual models for two types of Control Unit -- microprogrammed and hardwired -- and have *dispelled* any residual feeling that there must be magic dust inside.
@@ -22,12 +30,6 @@ You'll need to read through the next several sections before you begin any codin
 
 1. [Wikipedia Article on the Fetch-Decode-Execute Cycle](https://en.wikipedia.org/wiki/Instruction_cycle) 
 2. Book by John Scott. "But How Do it Know?" (Extract available on Canvas; Full book available at Broome Library)
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-* TOC
-{:toc}
 
 ## Introduction: Purpose of a Control Unit
 
